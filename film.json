@@ -1,0 +1,132 @@
+{
+ "fps": 60,
+ "tier": "ultra",
+ "samples": 16,
+ "title": "After the Flood - Genesis 10",
+ "scenes": [
+  {
+   "id": "00",
+   "scene": "s00-ararat",
+   "from": 0,
+   "to": 26.7,
+   "hold": "the title and the opening verse in one climb out of the draining basin to the ark and round to the edge"
+  },
+  {
+   "id": "01",
+   "scene": "s01-hook-river",
+   "from": 26.7,
+   "to": 51.58,
+   "hold": "the whole first hook is one flight down the stream from the mountain to the fork and up over the branching channels"
+  },
+  {
+   "id": "02",
+   "scene": "s02-japheth",
+   "from": 51.58,
+   "to": 72.45,
+   "hold": "one flight along the row of Japheth's seven stones on the cliff, over it, and down to Gomer's three",
+   "offBeat": "cut in the gap between 'put the bass on that' and 'Javan had four', so the Javan line opens on its own shot"
+  },
+  {
+   "id": "03",
+   "scene": "s03-javan",
+   "from": 72.45,
+   "to": 85.13,
+   "offBeat": "cut between the last word of the verse and the first word of the hook, which follow each other with no gap",
+   "hold": "one move along the four hulls and out after the sailing boats"
+  },
+  {
+   "id": "04",
+   "scene": "s04-hook-shore",
+   "from": 85.13,
+   "to": 111.55,
+   "hold": "the whole second hook is one walk along the wet sand at sunset and one rise over the bay"
+  },
+  {
+   "id": "05",
+   "scene": "s05-ham",
+   "from": 111.55,
+   "to": 127.35,
+   "offBeat": "cut in the breath between the last name of the verse and the next line",
+   "hold": "one move along Ham's four and down to the stack of Cush's five"
+  },
+  {
+   "id": "06",
+   "scene": "s06-nimrod",
+   "from": 127.35,
+   "to": 143.92,
+   "hold": "one climb up the face of Nimrod's stele from the foot to the crown"
+  },
+  {
+   "id": "07",
+   "scene": "s07-shinar",
+   "from": 143.92,
+   "to": 148.38,
+   "offBeat": "cut in the breath between 'laid it' and 'From that land', which follow each other with no gap"
+  },
+  {
+   "id": "08",
+   "scene": "s08-assyria",
+   "from": 148.38,
+   "to": 163.38,
+   "hold": "one night flight up the river past Nineveh, Rehoboth-Ir, Resen and Calah to the tablet"
+  },
+  {
+   "id": "09",
+   "scene": "s09-mizraim",
+   "from": 163.38,
+   "to": 176.3,
+   "hold": "one glide down Mizraim's river under the cliff of names"
+  },
+  {
+   "id": "10",
+   "scene": "s10-canaan",
+   "from": 176.3,
+   "to": 188.49,
+   "hold": "one climb up the terraces of Canaan's hill"
+  },
+  {
+   "id": "11",
+   "scene": "s11-border",
+   "from": 188.49,
+   "to": 214.39,
+   "hold": "the whole border is one flight high over Canaan following the line as it runs, then one climb"
+  },
+  {
+   "id": "12",
+   "scene": "s12-hook-salt",
+   "from": 214.39,
+   "to": 239.45,
+   "hold": "the whole third hook is one slow turn on the Salt Sea, the lines growing round the camera"
+  },
+  {
+   "id": "13",
+   "scene": "s13-shem",
+   "from": 239.45,
+   "to": 263.4,
+   "offBeat": "cut in the breath between 'check the name' and 'Peleg', which follow with no gap",
+   "hold": "one climb up Shem's stair from the foot to the plateau"
+  },
+  {
+   "id": "14",
+   "scene": "s14-peleg",
+   "from": 263.4,
+   "to": 285.49,
+   "shake": "the earth splits open in Peleg's days: one short damped jolt as the chasm tears through the plateau",
+   "hold": "one move from the split at Peleg along Joktan's line of thirteen fires"
+  },
+  {
+   "id": "15",
+   "scene": "s15-east",
+   "from": 285.49,
+   "to": 308.08,
+   "hold": "one dawn at the eastern rim, looking out to Mesha and Sephar and rising as the sun comes up"
+  },
+  {
+   "id": "16",
+   "scene": "s16-outro",
+   "from": 308.08,
+   "to": 344.8,
+   "hold": "the outro and the long instrumental tail: one move at night from the brink to the basin and up over the ark into the stars"
+  }
+ ]
+}

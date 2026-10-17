@@ -1,0 +1,3958 @@
+{
+"source": "force-aligned to the separated vocal (local torchaudio CTC), checked against local Whisper; machine estimates",
+"duration": 344.8,
+"bpm": 74.07,
+"beats": [
+0.14,
+0.91,
+1.68,
+2.46,
+3.27,
+4.09,
+4.89,
+5.71,
+6.53,
+7.34,
+8.16,
+8.97,
+9.78,
+10.59,
+11.39,
+12.21,
+13.03,
+13.83,
+14.64,
+15.42,
+16.19,
+16.96,
+17.74,
+18.51,
+19.31,
+20.16,
+20.93,
+21.74,
+22.58,
+23.41,
+24.18,
+24.98,
+25.83,
+26.6,
+27.41,
+28.22,
+29.07,
+29.89,
+30.66,
+31.51,
+32.33,
+33.14,
+33.94,
+34.77,
+35.58,
+36.39,
+37.16,
+38.01,
+38.82,
+39.62,
+40.43,
+41.26,
+42.07,
+42.88,
+43.69,
+44.5,
+45.31,
+46.13,
+46.9,
+47.68,
+48.45,
+49.22,
+49.99,
+50.79,
+51.58,
+52.41,
+53.2,
+54.01,
+54.83,
+55.65,
+56.44,
+57.27,
+58.07,
+58.89,
+59.69,
+60.52,
+61.31,
+62.14,
+62.93,
+63.73,
+64.55,
+65.38,
+66.18,
+67.0,
+67.8,
+68.6,
+69.42,
+70.24,
+71.03,
+71.86,
+72.65,
+73.46,
+74.28,
+75.11,
+75.9,
+76.69,
+77.52,
+78.34,
+79.14,
+79.97,
+80.76,
+81.59,
+82.38,
+83.17,
+84.0,
+84.83,
+85.62,
+86.43,
+87.24,
+88.07,
+88.86,
+89.69,
+90.48,
+91.3,
+92.1,
+92.91,
+93.72,
+94.54,
+95.34,
+96.16,
+96.96,
+97.79,
+98.58,
+99.41,
+100.2,
+101.03,
+101.82,
+102.65,
+103.44,
+104.27,
+105.06,
+105.87,
+106.68,
+107.51,
+108.31,
+109.13,
+109.92,
+110.75,
+111.55,
+112.37,
+113.17,
+113.97,
+114.78,
+115.61,
+116.4,
+117.23,
+118.02,
+118.83,
+119.65,
+120.47,
+121.27,
+122.09,
+122.89,
+123.71,
+124.51,
+125.31,
+126.12,
+126.95,
+127.75,
+128.57,
+129.36,
+130.19,
+130.99,
+131.81,
+132.61,
+133.43,
+134.23,
+135.05,
+135.85,
+136.67,
+137.47,
+138.29,
+139.09,
+139.91,
+140.71,
+141.53,
+142.33,
+143.15,
+143.95,
+144.77,
+145.56,
+146.39,
+147.19,
+148.01,
+148.81,
+149.63,
+150.43,
+151.25,
+152.05,
+152.87,
+153.67,
+154.49,
+155.28,
+156.11,
+156.9,
+157.73,
+158.52,
+159.34,
+160.14,
+160.97,
+161.76,
+162.59,
+163.38,
+164.21,
+165.0,
+165.82,
+166.62,
+167.44,
+168.24,
+169.06,
+169.86,
+170.67,
+171.48,
+172.3,
+173.1,
+173.92,
+174.72,
+175.54,
+176.33,
+177.16,
+177.96,
+178.78,
+179.57,
+180.4,
+181.2,
+182.01,
+182.81,
+183.62,
+184.44,
+185.25,
+186.05,
+186.87,
+187.68,
+188.49,
+189.28,
+190.11,
+190.91,
+191.73,
+192.52,
+193.35,
+194.14,
+194.96,
+195.76,
+196.59,
+197.38,
+198.2,
+199.0,
+199.82,
+200.62,
+201.44,
+202.24,
+203.06,
+203.86,
+204.68,
+205.47,
+206.3,
+207.09,
+207.91,
+208.71,
+209.54,
+210.33,
+211.15,
+211.95,
+212.77,
+213.57,
+214.39,
+215.18,
+215.99,
+216.8,
+217.62,
+218.42,
+219.24,
+220.03,
+220.86,
+221.65,
+222.46,
+223.27,
+224.09,
+224.9,
+225.71,
+226.51,
+227.33,
+228.13,
+228.95,
+229.75,
+230.56,
+231.37,
+232.18,
+232.98,
+233.8,
+234.59,
+235.39,
+236.22,
+237.04,
+237.84,
+238.65,
+239.45,
+240.27,
+241.07,
+241.89,
+242.69,
+243.5,
+244.3,
+245.12,
+245.92,
+246.74,
+247.54,
+248.36,
+249.15,
+249.97,
+250.77,
+251.58,
+252.38,
+253.2,
+254.0,
+254.8,
+255.61,
+256.44,
+257.23,
+258.05,
+258.85,
+259.67,
+260.46,
+261.25,
+262.08,
+262.9,
+263.7,
+264.51,
+265.31,
+266.13,
+266.92,
+267.74,
+268.54,
+269.35,
+270.15,
+270.97,
+271.76,
+272.58,
+273.38,
+274.17,
+274.99,
+275.81,
+276.61,
+277.43,
+278.22,
+279.04,
+279.84,
+280.61,
+281.45,
+282.26,
+283.06,
+283.88,
+284.68,
+285.49,
+286.29,
+287.09,
+287.9,
+288.72,
+289.5,
+290.34,
+291.13,
+291.95,
+292.75,
+293.56,
+294.36,
+295.18,
+295.97,
+296.79,
+297.58,
+298.4,
+299.2,
+300.02,
+300.82,
+301.63,
+302.43,
+303.24,
+304.04,
+304.85,
+305.65,
+306.47,
+307.26,
+308.08,
+308.87,
+309.69,
+310.49,
+311.3,
+312.1,
+312.91,
+313.71,
+314.52,
+315.32,
+316.13,
+316.93,
+317.74,
+318.54,
+319.35,
+320.15,
+320.96,
+321.76,
+322.57,
+323.37,
+324.18,
+324.98,
+325.8,
+326.59,
+327.4,
+328.2,
+329.01,
+329.81,
+330.62,
+331.42,
+332.21,
+333.03,
+333.84,
+334.64,
+335.45,
+336.25,
+337.06,
+337.86,
+338.66,
+339.48,
+340.27,
+341.05,
+341.88,
+342.69,
+343.47,
+344.31
+],
+"lines": [
+{
+"text": "Water's gone, ground dry, ark on the mountain",
+"start": 12.55,
+"end": 15.401
+},
+{
+"text": "Three sons standing, now we start countin'",
+"start": 15.861,
+"end": 18.641
+},
+{
+"text": "Shem, Ham, Japheth (yeah)",
+"start": 18.701,
+"end": 20.601
+},
+{
+"text": "Sons born after the flood (after the flood)",
+"start": 21.121,
+"end": 24.361
+},
+{
+"text": "Generations, Genesis Ten, let it drop",
+"start": 24.421,
+"end": 26.782
+},
+{
+"text": "After the flood (after the flood)",
+"start": 26.802,
+"end": 28.402
+},
+{
+"text": "Nations rose up from the sons of Noah's blood",
+"start": 30.502,
+"end": 33.282
+},
+{
+"text": "By their clans, by their tongues, by their lands",
+"start": 33.382,
+"end": 35.842
+},
+{
+"text": "Every nation on the map came from three men",
+"start": 36.682,
+"end": 39.622
+},
+{
+"text": "Divided in the earth, let the whole world know",
+"start": 40.042,
+"end": 44.483
+},
+{
+"text": "Genesis Ten, watch the nations grow",
+"start": 46.683,
+"end": 51.023
+},
+{
+"text": "Japheth up first, seven sons on the roll",
+"start": 51.983,
+"end": 55.903
+},
+{
+"text": "Gomer, Magog, Madai, let it go",
+"start": 56.443,
+"end": 59.083
+},
+{
+"text": "Javan, Tubal, Meshech, Tiras, full set",
+"start": 59.483,
+"end": 62.344
+},
+{
+"text": "Seven deep from Japheth, ain't a name you forget",
+"start": 62.524,
+"end": 65.604
+},
+{
+"text": "Gomer had three: Ashkenaz, Riphath",
+"start": 65.784,
+"end": 68.944
+},
+{
+"text": "Togarmah on the end, put the bass on that",
+"start": 69.024,
+"end": 72.184
+},
+{
+"text": "Javan had four, coastline flow",
+"start": 72.624,
+"end": 75.364
+},
+{
+"text": "Elishah, Tarshish, Kittim, Dodanim, go",
+"start": 75.784,
+"end": 78.525
+},
+{
+"text": "From these the coastland peoples spread through their lands",
+"start": 78.945,
+"end": 82.005
+},
+{
+"text": "Each with his own tongue, his clan, his nation, understand",
+"start": 82.105,
+"end": 85.125
+},
+{
+"text": "After the flood (after the flood)",
+"start": 85.145,
+"end": 86.765
+},
+{
+"text": "Nations rose up from the sons of Noah's blood",
+"start": 88.885,
+"end": 91.645
+},
+{
+"text": "By their clans, by their tongues, by their lands",
+"start": 91.745,
+"end": 94.245
+},
+{
+"text": "Every nation on the map came from three men",
+"start": 95.046,
+"end": 97.986
+},
+{
+"text": "Divided in the earth, let the whole world know",
+"start": 98.406,
+"end": 102.826
+},
+{
+"text": "Genesis Ten, watch the nations grow",
+"start": 105.046,
+"end": 109.406
+},
+{
+"text": "Sons of Ham: Cush, Mizraim, Put, Canaan",
+"start": 111.526,
+"end": 114.367
+},
+{
+"text": "Four-man lineup, now the bassline's rainin'",
+"start": 114.807,
+"end": 117.607
+},
+{
+"text": "Cush had Seba, Havilah, Sabtah",
+"start": 118.007,
+"end": 120.647
+},
+{
+"text": "Raamah, Sabteca, five sons, stack 'em up",
+"start": 120.907,
+"end": 123.927
+},
+{
+"text": "Raamah had two: Sheba and Dedan",
+"start": 124.527,
+"end": 127.287
+},
+{
+"text": "Then Cush fathered Nimrod, the earth heard him comin'",
+"start": 127.387,
+"end": 130.528
+},
+{
+"text": "First mighty man on the earth, built strong",
+"start": 130.988,
+"end": 133.768
+},
+{
+"text": "Mighty hunter before the LORD, that's the saying passed on:",
+"start": 133.848,
+"end": 136.888
+},
+{
+"text": "\"Like Nimrod, a mighty hunter before the LORD\"",
+"start": 137.268,
+"end": 140.468
+},
+{
+"text": "His kingdom began where the empires were born",
+"start": 140.568,
+"end": 143.848
+},
+{
+"text": "Babel, Erech, Accad, Calneh",
+"start": 143.948,
+"end": 145.948
+},
+{
+"text": "Land of Shinar, that's where he laid it",
+"start": 146.388,
+"end": 148.349
+},
+{
+"text": "From that land to Assyria he went",
+"start": 148.409,
+"end": 152.249
+},
+{
+"text": "Built Nineveh, Rehoboth-Ir, Calah, cement",
+"start": 152.669,
+"end": 155.709
+},
+{
+"text": "Then Resen, between Nineveh and Calah set",
+"start": 155.909,
+"end": 158.789
+},
+{
+"text": "That's the great city, put it on the record",
+"start": 159.749,
+"end": 162.949
+},
+{
+"text": "Mizraim fathered Ludim, Anamim",
+"start": 163.79,
+"end": 165.83
+},
+{
+"text": "Lehabim, Naphtuhim, keep it spinnin'",
+"start": 166.23,
+"end": 168.81
+},
+{
+"text": "Pathrusim, Casluhim, the Philistines came from them",
+"start": 169.05,
+"end": 172.09
+},
+{
+"text": "Caphtorim to close it, that's the end of the line for him",
+"start": 172.49,
+"end": 175.75
+},
+{
+"text": "Canaan's firstborn: Sidon, then Heth",
+"start": 176.33,
+"end": 178.81
+},
+{
+"text": "Jebusites, Amorites, Girgashites, next",
+"start": 179.17,
+"end": 182.091
+},
+{
+"text": "Hivites, Arkites, Sinites, roll",
+"start": 182.631,
+"end": 184.871
+},
+{
+"text": "Arvadites, Zemarites, Hamathites, whole",
+"start": 185.351,
+"end": 188.051
+},
+{
+"text": "Then the clans of Canaan spread abroad",
+"start": 188.911,
+"end": 191.591
+},
+{
+"text": "Border ran from Sidon, down toward Gerar",
+"start": 191.711,
+"end": 194.451
+},
+{
+"text": "All the way to Gaza, then toward Sodom",
+"start": 195.071,
+"end": 197.711
+},
+{
+"text": "Gomorrah, Admah, Zeboiim, as far as Lasha, got 'em",
+"start": 197.991,
+"end": 200.952
+},
+{
+"text": "These are the sons of Ham, laid out plain",
+"start": 201.632,
+"end": 206.392
+},
+{
+"text": "By their clans, their tongues, their lands, their nations' names",
+"start": 208.312,
+"end": 214.292
+},
+{
+"text": "After the flood (after the flood)",
+"start": 214.512,
+"end": 216.353
+},
+{
+"text": "Nations rose up from the sons of Noah's blood",
+"start": 218.453,
+"end": 221.193
+},
+{
+"text": "By their clans, by their tongues, by their lands",
+"start": 221.293,
+"end": 223.753
+},
+{
+"text": "Every nation on the map came from three men",
+"start": 224.613,
+"end": 227.553
+},
+{
+"text": "Divided in the earth, let the whole world know",
+"start": 227.953,
+"end": 233.554
+},
+{
+"text": "Genesis Ten, watch the nations grow",
+"start": 234.574,
+"end": 238.934
+},
+{
+"text": "Now Shem, father of all of Eber's kids",
+"start": 239.874,
+"end": 243.914
+},
+{
+"text": "Japheth's brother, sons were born to him",
+"start": 244.294,
+"end": 246.874
+},
+{
+"text": "Elam, Asshur, Arpachshad",
+"start": 247.434,
+"end": 250.035
+},
+{
+"text": "Lud and Aram, five sons, hold that",
+"start": 250.375,
+"end": 253.615
+},
+{
+"text": "Aram had Uz, Hul, Gether, Mash",
+"start": 253.735,
+"end": 256.435
+},
+{
+"text": "Arpachshad fathered Shelah, Shelah fathered Eber, fast",
+"start": 256.915,
+"end": 260.055
+},
+{
+"text": "Eber had two sons, check the name:",
+"start": 260.575,
+"end": 263.215
+},
+{
+"text": "Peleg, 'cause in his days the earth got divided, man",
+"start": 263.495,
+"end": 266.735
+},
+{
+"text": "His brother was Joktan, thirteen deep",
+"start": 266.795,
+"end": 269.576
+},
+{
+"text": "Almodad, Sheleph, Hazarmaveth, Jerah, beat",
+"start": 269.876,
+"end": 272.796
+},
+{
+"text": "Hadoram, Uzal, Diklah, run it",
+"start": 273.196,
+"end": 275.756
+},
+{
+"text": "Obal, Abimael, Sheba, keep it comin'",
+"start": 276.276,
+"end": 279.156
+},
+{
+"text": "Ophir, Havilah, Jobab, that's the crew",
+"start": 279.516,
+"end": 282.076
+},
+{
+"text": "All the sons of Joktan, every name came through",
+"start": 282.796,
+"end": 285.477
+},
+{
+"text": "They lived from Mesha toward Sephar, way out",
+"start": 285.697,
+"end": 288.757
+},
+{
+"text": "The hill country of the east, that's the route",
+"start": 288.917,
+"end": 291.837
+},
+{
+"text": "These are the sons of Shem, laid out plain",
+"start": 292.177,
+"end": 296.857
+},
+{
+"text": "By their clans, their tongues, their lands, their nations' names",
+"start": 298.797,
+"end": 306.358
+},
+{
+"text": "These are the clans of Noah's sons",
+"start": 308.298,
+"end": 310.758
+},
+{
+"text": "By their generations, in their nations, one by one",
+"start": 312.498,
+"end": 317.838
+},
+{
+"text": "From these the nations spread across the earth",
+"start": 318.738,
+"end": 322.859
+},
+{
+"text": "After the flood (after the flood)",
+"start": 325.439,
+"end": 329.859
+},
+{
+"text": "Genesis Ten",
+"start": 331.419,
+"end": 332.499
+}
+],
+"words": [
+{
+"w": "Water's",
+"start": 12.55,
+"end": 12.961
+},
+{
+"w": "gone,",
+"start": 13.021,
+"end": 13.301
+},
+{
+"w": "ground",
+"start": 13.421,
+"end": 13.781
+},
+{
+"w": "dry,",
+"start": 13.821,
+"end": 14.161
+},
+{
+"w": "ark",
+"start": 14.381,
+"end": 14.501
+},
+{
+"w": "on",
+"start": 14.741,
+"end": 14.801
+},
+{
+"w": "the",
+"start": 14.861,
+"end": 14.941
+},
+{
+"w": "mountain",
+"start": 15.041,
+"end": 15.401
+},
+{
+"w": "Three",
+"start": 15.861,
+"end": 16.081
+},
+{
+"w": "sons",
+"start": 16.241,
+"end": 16.541
+},
+{
+"w": "standing,",
+"start": 16.621,
+"end": 17.041
+},
+{
+"w": "now",
+"start": 17.501,
+"end": 17.641
+},
+{
+"w": "we",
+"start": 17.681,
+"end": 17.741
+},
+{
+"w": "start",
+"start": 17.861,
+"end": 18.181
+},
+{
+"w": "countin'",
+"start": 18.301,
+"end": 18.641
+},
+{
+"w": "Shem,",
+"start": 18.701,
+"end": 18.961
+},
+{
+"w": "Ham,",
+"start": 19.161,
+"end": 19.421
+},
+{
+"w": "Japheth",
+"start": 19.521,
+"end": 20.141
+},
+{
+"w": "(yeah)",
+"start": 20.341,
+"end": 20.601
+},
+{
+"w": "Sons",
+"start": 21.121,
+"end": 21.441
+},
+{
+"w": "born",
+"start": 21.541,
+"end": 21.961
+},
+{
+"w": "after",
+"start": 22.101,
+"end": 22.541
+},
+{
+"w": "the",
+"start": 22.581,
+"end": 22.641
+},
+{
+"w": "flood",
+"start": 22.741,
+"end": 23.101
+},
+{
+"w": "(after",
+"start": 23.321,
+"end": 23.681
+},
+{
+"w": "the",
+"start": 23.801,
+"end": 23.881
+},
+{
+"w": "flood)",
+"start": 24.081,
+"end": 24.361
+},
+{
+"w": "Generations,",
+"start": 24.421,
+"end": 25.181
+},
+{
+"w": "Genesis",
+"start": 25.601,
+"end": 26.202
+},
+{
+"w": "Ten,",
+"start": 26.222,
+"end": 26.302
+},
+{
+"w": "let",
+"start": 26.422,
+"end": 26.482
+},
+{
+"w": "it",
+"start": 26.562,
+"end": 26.662
+},
+{
+"w": "drop",
+"start": 26.682,
+"end": 26.782
+},
+{
+"w": "After",
+"start": 26.802,
+"end": 27.002
+},
+{
+"w": "the",
+"start": 27.042,
+"end": 27.102
+},
+{
+"w": "flood",
+"start": 27.202,
+"end": 27.522
+},
+{
+"w": "(after",
+"start": 27.682,
+"end": 27.862
+},
+{
+"w": "the",
+"start": 27.882,
+"end": 27.962
+},
+{
+"w": "flood)",
+"start": 28.022,
+"end": 28.402
+},
+{
+"w": "Nations",
+"start": 30.502,
+"end": 30.862
+},
+{
+"w": "rose",
+"start": 30.942,
+"end": 31.322
+},
+{
+"w": "up",
+"start": 31.442,
+"end": 31.502
+},
+{
+"w": "from",
+"start": 31.722,
+"end": 31.862
+},
+{
+"w": "the",
+"start": 31.942,
+"end": 32.002
+},
+{
+"w": "sons",
+"start": 32.082,
+"end": 32.322
+},
+{
+"w": "of",
+"start": 32.382,
+"end": 32.442
+},
+{
+"w": "Noah's",
+"start": 32.542,
+"end": 32.822
+},
+{
+"w": "blood",
+"start": 32.902,
+"end": 33.282
+},
+{
+"w": "By",
+"start": 33.382,
+"end": 33.482
+},
+{
+"w": "their",
+"start": 33.562,
+"end": 33.682
+},
+{
+"w": "clans,",
+"start": 33.762,
+"end": 34.122
+},
+{
+"w": "by",
+"start": 34.162,
+"end": 34.302
+},
+{
+"w": "their",
+"start": 34.382,
+"end": 34.502
+},
+{
+"w": "tongues,",
+"start": 34.602,
+"end": 34.922
+},
+{
+"w": "by",
+"start": 34.962,
+"end": 35.122
+},
+{
+"w": "their",
+"start": 35.202,
+"end": 35.342
+},
+{
+"w": "lands",
+"start": 35.402,
+"end": 35.842
+},
+{
+"w": "Every",
+"start": 36.682,
+"end": 36.882
+},
+{
+"w": "nation",
+"start": 36.982,
+"end": 37.302
+},
+{
+"w": "on",
+"start": 37.502,
+"end": 37.562
+},
+{
+"w": "the",
+"start": 37.622,
+"end": 37.702
+},
+{
+"w": "map",
+"start": 37.822,
+"end": 38.022
+},
+{
+"w": "came",
+"start": 38.202,
+"end": 38.502
+},
+{
+"w": "from",
+"start": 38.622,
+"end": 38.822
+},
+{
+"w": "three",
+"start": 39.002,
+"end": 39.322
+},
+{
+"w": "men",
+"start": 39.462,
+"end": 39.622
+},
+{
+"w": "Divided",
+"start": 40.042,
+"end": 40.642
+},
+{
+"w": "in",
+"start": 40.722,
+"end": 40.782
+},
+{
+"w": "the",
+"start": 40.862,
+"end": 41.002
+},
+{
+"w": "earth,",
+"start": 41.202,
+"end": 41.382
+},
+{
+"w": "let",
+"start": 43.082,
+"end": 43.223
+},
+{
+"w": "the",
+"start": 43.283,
+"end": 43.403
+},
+{
+"w": "whole",
+"start": 43.523,
+"end": 43.863
+},
+{
+"w": "world",
+"start": 43.923,
+"end": 44.223
+},
+{
+"w": "know",
+"start": 44.303,
+"end": 44.483
+},
+{
+"w": "Genesis",
+"start": 46.683,
+"end": 47.403
+},
+{
+"w": "Ten,",
+"start": 47.583,
+"end": 47.803
+},
+{
+"w": "watch",
+"start": 49.543,
+"end": 49.743
+},
+{
+"w": "the",
+"start": 49.783,
+"end": 49.863
+},
+{
+"w": "nations",
+"start": 50.003,
+"end": 50.683
+},
+{
+"w": "grow",
+"start": 50.763,
+"end": 51.023
+},
+{
+"w": "Japheth",
+"start": 51.983,
+"end": 53.363
+},
+{
+"w": "up",
+"start": 53.543,
+"end": 53.603
+},
+{
+"w": "first,",
+"start": 53.663,
+"end": 53.983
+},
+{
+"w": "seven",
+"start": 54.403,
+"end": 54.743
+},
+{
+"w": "sons",
+"start": 54.823,
+"end": 55.223
+},
+{
+"w": "on",
+"start": 55.363,
+"end": 55.423
+},
+{
+"w": "the",
+"start": 55.463,
+"end": 55.563
+},
+{
+"w": "roll",
+"start": 55.643,
+"end": 55.903
+},
+{
+"w": "Gomer,",
+"start": 56.443,
+"end": 56.783
+},
+{
+"w": "Magog,",
+"start": 57.043,
+"end": 57.603
+},
+{
+"w": "Madai,",
+"start": 57.683,
+"end": 58.263
+},
+{
+"w": "let",
+"start": 58.503,
+"end": 58.643
+},
+{
+"w": "it",
+"start": 58.743,
+"end": 58.803
+},
+{
+"w": "go",
+"start": 58.863,
+"end": 59.083
+},
+{
+"w": "Javan,",
+"start": 59.483,
+"end": 59.903
+},
+{
+"w": "Tubal,",
+"start": 60.103,
+"end": 60.424
+},
+{
+"w": "Meshech,",
+"start": 60.464,
+"end": 60.984
+},
+{
+"w": "Tiras,",
+"start": 61.144,
+"end": 61.544
+},
+{
+"w": "full",
+"start": 61.724,
+"end": 61.984
+},
+{
+"w": "set",
+"start": 62.104,
+"end": 62.344
+},
+{
+"w": "Seven",
+"start": 62.524,
+"end": 62.844
+},
+{
+"w": "deep",
+"start": 62.964,
+"end": 63.164
+},
+{
+"w": "from",
+"start": 63.344,
+"end": 63.584
+},
+{
+"w": "Japheth,",
+"start": 63.724,
+"end": 64.124
+},
+{
+"w": "ain't",
+"start": 64.284,
+"end": 64.384
+},
+{
+"w": "a",
+"start": 64.424,
+"end": 64.484
+},
+{
+"w": "name",
+"start": 64.604,
+"end": 64.904
+},
+{
+"w": "you",
+"start": 64.964,
+"end": 65.084
+},
+{
+"w": "forget",
+"start": 65.164,
+"end": 65.604
+},
+{
+"w": "Gomer",
+"start": 65.784,
+"end": 66.044
+},
+{
+"w": "had",
+"start": 66.244,
+"end": 66.424
+},
+{
+"w": "three:",
+"start": 66.584,
+"end": 66.864
+},
+{
+"w": "Ashkenaz,",
+"start": 67.184,
+"end": 68.084
+},
+{
+"w": "Riphath",
+"start": 68.244,
+"end": 68.944
+},
+{
+"w": "Togarmah",
+"start": 69.024,
+"end": 69.824
+},
+{
+"w": "on",
+"start": 69.904,
+"end": 69.984
+},
+{
+"w": "the",
+"start": 70.044,
+"end": 70.184
+},
+{
+"w": "end,",
+"start": 70.404,
+"end": 70.584
+},
+{
+"w": "put",
+"start": 70.644,
+"end": 70.784
+},
+{
+"w": "the",
+"start": 70.844,
+"end": 70.904
+},
+{
+"w": "bass",
+"start": 71.004,
+"end": 71.344
+},
+{
+"w": "on",
+"start": 71.604,
+"end": 71.744
+},
+{
+"w": "that",
+"start": 71.884,
+"end": 72.184
+},
+{
+"w": "Javan",
+"start": 72.624,
+"end": 73.064
+},
+{
+"w": "had",
+"start": 73.124,
+"end": 73.324
+},
+{
+"w": "four,",
+"start": 73.424,
+"end": 73.764
+},
+{
+"w": "coastline",
+"start": 74.264,
+"end": 74.984
+},
+{
+"w": "flow",
+"start": 75.064,
+"end": 75.364
+},
+{
+"w": "Elishah,",
+"start": 75.784,
+"end": 76.224
+},
+{
+"w": "Tarshish,",
+"start": 76.484,
+"end": 76.884
+},
+{
+"w": "Kittim,",
+"start": 76.924,
+"end": 77.244
+},
+{
+"w": "Dodanim,",
+"start": 77.324,
+"end": 77.885
+},
+{
+"w": "go",
+"start": 78.325,
+"end": 78.525
+},
+{
+"w": "From",
+"start": 78.945,
+"end": 79.085
+},
+{
+"w": "these",
+"start": 79.185,
+"end": 79.345
+},
+{
+"w": "the",
+"start": 79.385,
+"end": 79.445
+},
+{
+"w": "coastland",
+"start": 79.545,
+"end": 80.305
+},
+{
+"w": "peoples",
+"start": 80.385,
+"end": 80.685
+},
+{
+"w": "spread",
+"start": 80.705,
+"end": 81.105
+},
+{
+"w": "through",
+"start": 81.205,
+"end": 81.365
+},
+{
+"w": "their",
+"start": 81.385,
+"end": 81.545
+},
+{
+"w": "lands",
+"start": 81.605,
+"end": 82.005
+},
+{
+"w": "Each",
+"start": 82.105,
+"end": 82.265
+},
+{
+"w": "with",
+"start": 82.405,
+"end": 82.585
+},
+{
+"w": "his",
+"start": 82.665,
+"end": 82.805
+},
+{
+"w": "own",
+"start": 82.965,
+"end": 83.065
+},
+{
+"w": "tongue,",
+"start": 83.205,
+"end": 83.585
+},
+{
+"w": "his",
+"start": 83.625,
+"end": 83.745
+},
+{
+"w": "clan,",
+"start": 83.805,
+"end": 84.165
+},
+{
+"w": "his",
+"start": 84.245,
+"end": 84.345
+},
+{
+"w": "nation,",
+"start": 84.405,
+"end": 84.745
+},
+{
+"w": "understand",
+"start": 84.905,
+"end": 85.125
+},
+{
+"w": "After",
+"start": 85.145,
+"end": 85.305
+},
+{
+"w": "the",
+"start": 85.445,
+"end": 85.505
+},
+{
+"w": "flood",
+"start": 85.525,
+"end": 85.665
+},
+{
+"w": "(after",
+"start": 86.065,
+"end": 86.245
+},
+{
+"w": "the",
+"start": 86.285,
+"end": 86.365
+},
+{
+"w": "flood)",
+"start": 86.405,
+"end": 86.765
+},
+{
+"w": "Nations",
+"start": 88.885,
+"end": 89.245
+},
+{
+"w": "rose",
+"start": 89.305,
+"end": 89.705
+},
+{
+"w": "up",
+"start": 89.805,
+"end": 89.865
+},
+{
+"w": "from",
+"start": 90.085,
+"end": 90.225
+},
+{
+"w": "the",
+"start": 90.305,
+"end": 90.365
+},
+{
+"w": "sons",
+"start": 90.445,
+"end": 90.685
+},
+{
+"w": "of",
+"start": 90.765,
+"end": 90.825
+},
+{
+"w": "Noah's",
+"start": 90.925,
+"end": 91.205
+},
+{
+"w": "blood",
+"start": 91.285,
+"end": 91.645
+},
+{
+"w": "By",
+"start": 91.745,
+"end": 91.865
+},
+{
+"w": "their",
+"start": 91.925,
+"end": 92.045
+},
+{
+"w": "clans,",
+"start": 92.125,
+"end": 92.485
+},
+{
+"w": "by",
+"start": 92.525,
+"end": 92.685
+},
+{
+"w": "their",
+"start": 92.745,
+"end": 92.865
+},
+{
+"w": "tongues,",
+"start": 92.965,
+"end": 93.285
+},
+{
+"w": "by",
+"start": 93.345,
+"end": 93.465
+},
+{
+"w": "their",
+"start": 93.565,
+"end": 93.725
+},
+{
+"w": "lands",
+"start": 93.785,
+"end": 94.245
+},
+{
+"w": "Every",
+"start": 95.046,
+"end": 95.246
+},
+{
+"w": "nation",
+"start": 95.326,
+"end": 95.666
+},
+{
+"w": "on",
+"start": 95.846,
+"end": 95.906
+},
+{
+"w": "the",
+"start": 95.966,
+"end": 96.046
+},
+{
+"w": "map",
+"start": 96.166,
+"end": 96.366
+},
+{
+"w": "came",
+"start": 96.566,
+"end": 96.866
+},
+{
+"w": "from",
+"start": 96.986,
+"end": 97.166
+},
+{
+"w": "three",
+"start": 97.366,
+"end": 97.686
+},
+{
+"w": "men",
+"start": 97.826,
+"end": 97.986
+},
+{
+"w": "Divided",
+"start": 98.406,
+"end": 99.006
+},
+{
+"w": "in",
+"start": 99.086,
+"end": 99.146
+},
+{
+"w": "the",
+"start": 99.226,
+"end": 99.366
+},
+{
+"w": "earth,",
+"start": 99.566,
+"end": 99.766
+},
+{
+"w": "let",
+"start": 101.426,
+"end": 101.566
+},
+{
+"w": "the",
+"start": 101.626,
+"end": 101.766
+},
+{
+"w": "whole",
+"start": 101.886,
+"end": 102.206
+},
+{
+"w": "world",
+"start": 102.266,
+"end": 102.566
+},
+{
+"w": "know",
+"start": 102.646,
+"end": 102.826
+},
+{
+"w": "Genesis",
+"start": 105.046,
+"end": 105.746
+},
+{
+"w": "Ten,",
+"start": 105.906,
+"end": 106.146
+},
+{
+"w": "watch",
+"start": 107.886,
+"end": 108.086
+},
+{
+"w": "the",
+"start": 108.126,
+"end": 108.206
+},
+{
+"w": "nations",
+"start": 108.346,
+"end": 109.026
+},
+{
+"w": "grow",
+"start": 109.106,
+"end": 109.406
+},
+{
+"w": "Sons",
+"start": 111.526,
+"end": 111.766
+},
+{
+"w": "of",
+"start": 111.826,
+"end": 111.886
+},
+{
+"w": "Ham:",
+"start": 112.026,
+"end": 112.247
+},
+{
+"w": "Cush,",
+"start": 112.387,
+"end": 112.627
+},
+{
+"w": "Mizraim,",
+"start": 112.767,
+"end": 113.447
+},
+{
+"w": "Put,",
+"start": 113.627,
+"end": 113.807
+},
+{
+"w": "Canaan",
+"start": 113.967,
+"end": 114.367
+},
+{
+"w": "Four-man",
+"start": 114.807,
+"end": 115.507
+},
+{
+"w": "lineup,",
+"start": 115.607,
+"end": 115.927
+},
+{
+"w": "now",
+"start": 116.027,
+"end": 116.167
+},
+{
+"w": "the",
+"start": 116.227,
+"end": 116.287
+},
+{
+"w": "bassline's",
+"start": 116.387,
+"end": 117.167
+},
+{
+"w": "rainin'",
+"start": 117.247,
+"end": 117.607
+},
+{
+"w": "Cush",
+"start": 118.007,
+"end": 118.287
+},
+{
+"w": "had",
+"start": 118.427,
+"end": 118.707
+},
+{
+"w": "Seba,",
+"start": 118.827,
+"end": 119.187
+},
+{
+"w": "Havilah,",
+"start": 119.447,
+"end": 119.987
+},
+{
+"w": "Sabtah",
+"start": 120.047,
+"end": 120.647
+},
+{
+"w": "Raamah,",
+"start": 120.907,
+"end": 121.427
+},
+{
+"w": "Sabteca,",
+"start": 121.467,
+"end": 121.987
+},
+{
+"w": "five",
+"start": 122.087,
+"end": 122.407
+},
+{
+"w": "sons,",
+"start": 122.487,
+"end": 123.207
+},
+{
+"w": "stack",
+"start": 123.267,
+"end": 123.507
+},
+{
+"w": "'em",
+"start": 123.567,
+"end": 123.627
+},
+{
+"w": "up",
+"start": 123.867,
+"end": 123.927
+},
+{
+"w": "Raamah",
+"start": 124.527,
+"end": 124.847
+},
+{
+"w": "had",
+"start": 124.967,
+"end": 125.207
+},
+{
+"w": "two:",
+"start": 125.307,
+"end": 125.487
+},
+{
+"w": "Sheba",
+"start": 126.067,
+"end": 126.507
+},
+{
+"w": "and",
+"start": 126.647,
+"end": 126.727
+},
+{
+"w": "Dedan",
+"start": 126.747,
+"end": 127.287
+},
+{
+"w": "Then",
+"start": 127.387,
+"end": 127.467
+},
+{
+"w": "Cush",
+"start": 127.567,
+"end": 127.847
+},
+{
+"w": "fathered",
+"start": 127.947,
+"end": 128.327
+},
+{
+"w": "Nimrod,",
+"start": 128.407,
+"end": 129.147
+},
+{
+"w": "the",
+"start": 129.187,
+"end": 129.267
+},
+{
+"w": "earth",
+"start": 129.508,
+"end": 129.648
+},
+{
+"w": "heard",
+"start": 129.768,
+"end": 129.988
+},
+{
+"w": "him",
+"start": 130.008,
+"end": 130.068
+},
+{
+"w": "comin'",
+"start": 130.188,
+"end": 130.528
+},
+{
+"w": "First",
+"start": 130.988,
+"end": 131.268
+},
+{
+"w": "mighty",
+"start": 131.388,
+"end": 131.708
+},
+{
+"w": "man",
+"start": 131.828,
+"end": 132.188
+},
+{
+"w": "on",
+"start": 132.308,
+"end": 132.368
+},
+{
+"w": "the",
+"start": 132.428,
+"end": 132.488
+},
+{
+"w": "earth,",
+"start": 132.728,
+"end": 132.868
+},
+{
+"w": "built",
+"start": 133.048,
+"end": 133.268
+},
+{
+"w": "strong",
+"start": 133.348,
+"end": 133.768
+},
+{
+"w": "Mighty",
+"start": 133.848,
+"end": 134.168
+},
+{
+"w": "hunter",
+"start": 134.288,
+"end": 134.608
+},
+{
+"w": "before",
+"start": 134.648,
+"end": 135.048
+},
+{
+"w": "the",
+"start": 135.088,
+"end": 135.148
+},
+{
+"w": "LORD,",
+"start": 135.268,
+"end": 135.448
+},
+{
+"w": "that's",
+"start": 135.488,
+"end": 135.648
+},
+{
+"w": "the",
+"start": 135.688,
+"end": 135.748
+},
+{
+"w": "saying",
+"start": 135.848,
+"end": 136.208
+},
+{
+"w": "passed",
+"start": 136.268,
+"end": 136.648
+},
+{
+"w": "on:",
+"start": 136.808,
+"end": 136.888
+},
+{
+"w": "\"Like",
+"start": 137.268,
+"end": 137.468
+},
+{
+"w": "Nimrod,",
+"start": 137.508,
+"end": 138.268
+},
+{
+"w": "a",
+"start": 138.548,
+"end": 138.608
+},
+{
+"w": "mighty",
+"start": 138.688,
+"end": 139.048
+},
+{
+"w": "hunter",
+"start": 139.148,
+"end": 139.448
+},
+{
+"w": "before",
+"start": 139.528,
+"end": 139.908
+},
+{
+"w": "the",
+"start": 139.948,
+"end": 140.008
+},
+{
+"w": "LORD\"",
+"start": 140.108,
+"end": 140.468
+},
+{
+"w": "His",
+"start": 140.568,
+"end": 140.648
+},
+{
+"w": "kingdom",
+"start": 140.708,
+"end": 141.048
+},
+{
+"w": "began",
+"start": 141.128,
+"end": 141.828
+},
+{
+"w": "where",
+"start": 141.948,
+"end": 142.148
+},
+{
+"w": "the",
+"start": 142.168,
+"end": 142.268
+},
+{
+"w": "empires",
+"start": 142.468,
+"end": 143.128
+},
+{
+"w": "were",
+"start": 143.168,
+"end": 143.288
+},
+{
+"w": "born",
+"start": 143.348,
+"end": 143.848
+},
+{
+"w": "Babel,",
+"start": 143.948,
+"end": 144.248
+},
+{
+"w": "Erech,",
+"start": 144.548,
+"end": 144.848
+},
+{
+"w": "Accad,",
+"start": 145.008,
+"end": 145.428
+},
+{
+"w": "Calneh",
+"start": 145.568,
+"end": 145.948
+},
+{
+"w": "Land",
+"start": 146.388,
+"end": 146.589
+},
+{
+"w": "of",
+"start": 146.649,
+"end": 146.709
+},
+{
+"w": "Shinar,",
+"start": 146.749,
+"end": 147.349
+},
+{
+"w": "that's",
+"start": 147.409,
+"end": 147.549
+},
+{
+"w": "where",
+"start": 147.609,
+"end": 147.809
+},
+{
+"w": "he",
+"start": 147.849,
+"end": 147.929
+},
+{
+"w": "laid",
+"start": 148.029,
+"end": 148.209
+},
+{
+"w": "it",
+"start": 148.289,
+"end": 148.349
+},
+{
+"w": "From",
+"start": 148.409,
+"end": 148.589
+},
+{
+"w": "that",
+"start": 148.629,
+"end": 150.069
+},
+{
+"w": "land",
+"start": 150.269,
+"end": 150.589
+},
+{
+"w": "to",
+"start": 150.669,
+"end": 150.769
+},
+{
+"w": "Assyria",
+"start": 150.909,
+"end": 151.589
+},
+{
+"w": "he",
+"start": 151.709,
+"end": 151.809
+},
+{
+"w": "went",
+"start": 151.909,
+"end": 152.249
+},
+{
+"w": "Built",
+"start": 152.669,
+"end": 152.909
+},
+{
+"w": "Nineveh,",
+"start": 153.069,
+"end": 153.689
+},
+{
+"w": "Rehoboth-Ir,",
+"start": 153.749,
+"end": 154.789
+},
+{
+"w": "Calah,",
+"start": 154.869,
+"end": 155.229
+},
+{
+"w": "cement",
+"start": 155.289,
+"end": 155.709
+},
+{
+"w": "Then",
+"start": 155.909,
+"end": 156.049
+},
+{
+"w": "Resen,",
+"start": 156.129,
+"end": 156.649
+},
+{
+"w": "between",
+"start": 156.709,
+"end": 157.269
+},
+{
+"w": "Nineveh",
+"start": 157.349,
+"end": 157.669
+},
+{
+"w": "and",
+"start": 157.929,
+"end": 158.069
+},
+{
+"w": "Calah",
+"start": 158.129,
+"end": 158.409
+},
+{
+"w": "set",
+"start": 158.489,
+"end": 158.789
+},
+{
+"w": "That's",
+"start": 159.749,
+"end": 159.909
+},
+{
+"w": "the",
+"start": 159.949,
+"end": 160.029
+},
+{
+"w": "great",
+"start": 160.129,
+"end": 160.389
+},
+{
+"w": "city,",
+"start": 160.529,
+"end": 160.849
+},
+{
+"w": "put",
+"start": 161.749,
+"end": 162.009
+},
+{
+"w": "it",
+"start": 162.109,
+"end": 162.189
+},
+{
+"w": "on",
+"start": 162.309,
+"end": 162.369
+},
+{
+"w": "the",
+"start": 162.429,
+"end": 162.509
+},
+{
+"w": "record",
+"start": 162.589,
+"end": 162.949
+},
+{
+"w": "Mizraim",
+"start": 163.79,
+"end": 164.23
+},
+{
+"w": "fathered",
+"start": 164.39,
+"end": 164.77
+},
+{
+"w": "Ludim,",
+"start": 164.81,
+"end": 165.13
+},
+{
+"w": "Anamim",
+"start": 165.33,
+"end": 165.83
+},
+{
+"w": "Lehabim,",
+"start": 166.23,
+"end": 166.85
+},
+{
+"w": "Naphtuhim,",
+"start": 167.07,
+"end": 167.89
+},
+{
+"w": "keep",
+"start": 168.03,
+"end": 168.21
+},
+{
+"w": "it",
+"start": 168.31,
+"end": 168.39
+},
+{
+"w": "spinnin'",
+"start": 168.41,
+"end": 168.81
+},
+{
+"w": "Pathrusim,",
+"start": 169.05,
+"end": 169.71
+},
+{
+"w": "Casluhim,",
+"start": 169.87,
+"end": 170.43
+},
+{
+"w": "the",
+"start": 170.51,
+"end": 170.57
+},
+{
+"w": "Philistines",
+"start": 170.69,
+"end": 171.39
+},
+{
+"w": "came",
+"start": 171.47,
+"end": 171.67
+},
+{
+"w": "from",
+"start": 171.71,
+"end": 171.83
+},
+{
+"w": "them",
+"start": 171.91,
+"end": 172.09
+},
+{
+"w": "Caphtorim",
+"start": 172.49,
+"end": 173.27
+},
+{
+"w": "to",
+"start": 173.35,
+"end": 173.41
+},
+{
+"w": "close",
+"start": 173.49,
+"end": 173.75
+},
+{
+"w": "it,",
+"start": 173.83,
+"end": 173.89
+},
+{
+"w": "that's",
+"start": 173.93,
+"end": 174.13
+},
+{
+"w": "the",
+"start": 174.15,
+"end": 174.23
+},
+{
+"w": "end",
+"start": 174.43,
+"end": 174.51
+},
+{
+"w": "of",
+"start": 174.65,
+"end": 174.71
+},
+{
+"w": "the",
+"start": 174.77,
+"end": 174.85
+},
+{
+"w": "line",
+"start": 174.95,
+"end": 175.25
+},
+{
+"w": "for",
+"start": 175.33,
+"end": 175.53
+},
+{
+"w": "him",
+"start": 175.61,
+"end": 175.75
+},
+{
+"w": "Canaan's",
+"start": 176.33,
+"end": 176.71
+},
+{
+"w": "firstborn:",
+"start": 176.75,
+"end": 177.43
+},
+{
+"w": "Sidon,",
+"start": 177.73,
+"end": 178.31
+},
+{
+"w": "then",
+"start": 178.39,
+"end": 178.51
+},
+{
+"w": "Heth",
+"start": 178.57,
+"end": 178.81
+},
+{
+"w": "Jebusites,",
+"start": 179.17,
+"end": 179.91
+},
+{
+"w": "Amorites,",
+"start": 180.09,
+"end": 180.71
+},
+{
+"w": "Girgashites,",
+"start": 180.79,
+"end": 181.711
+},
+{
+"w": "next",
+"start": 181.811,
+"end": 182.091
+},
+{
+"w": "Hivites,",
+"start": 182.631,
+"end": 183.151
+},
+{
+"w": "Arkites,",
+"start": 183.371,
+"end": 183.951
+},
+{
+"w": "Sinites,",
+"start": 184.011,
+"end": 184.551
+},
+{
+"w": "roll",
+"start": 184.671,
+"end": 184.871
+},
+{
+"w": "Arvadites,",
+"start": 185.351,
+"end": 185.991
+},
+{
+"w": "Zemarites,",
+"start": 186.071,
+"end": 186.771
+},
+{
+"w": "Hamathites,",
+"start": 186.831,
+"end": 187.591
+},
+{
+"w": "whole",
+"start": 187.631,
+"end": 188.051
+},
+{
+"w": "Then",
+"start": 188.911,
+"end": 189.051
+},
+{
+"w": "the",
+"start": 189.111,
+"end": 189.191
+},
+{
+"w": "clans",
+"start": 189.271,
+"end": 189.711
+},
+{
+"w": "of",
+"start": 189.771,
+"end": 189.831
+},
+{
+"w": "Canaan",
+"start": 189.891,
+"end": 190.291
+},
+{
+"w": "spread",
+"start": 190.431,
+"end": 190.731
+},
+{
+"w": "abroad",
+"start": 190.811,
+"end": 191.591
+},
+{
+"w": "Border",
+"start": 191.711,
+"end": 192.071
+},
+{
+"w": "ran",
+"start": 192.171,
+"end": 192.291
+},
+{
+"w": "from",
+"start": 192.351,
+"end": 192.451
+},
+{
+"w": "Sidon,",
+"start": 192.511,
+"end": 193.091
+},
+{
+"w": "down",
+"start": 193.151,
+"end": 193.451
+},
+{
+"w": "toward",
+"start": 193.551,
+"end": 193.871
+},
+{
+"w": "Gerar",
+"start": 193.931,
+"end": 194.451
+},
+{
+"w": "All",
+"start": 195.071,
+"end": 195.191
+},
+{
+"w": "the",
+"start": 195.211,
+"end": 195.291
+},
+{
+"w": "way",
+"start": 195.431,
+"end": 195.591
+},
+{
+"w": "to",
+"start": 195.611,
+"end": 195.671
+},
+{
+"w": "Gaza,",
+"start": 195.751,
+"end": 196.111
+},
+{
+"w": "then",
+"start": 196.391,
+"end": 196.611
+},
+{
+"w": "toward",
+"start": 196.771,
+"end": 197.231
+},
+{
+"w": "Sodom",
+"start": 197.351,
+"end": 197.711
+},
+{
+"w": "Gomorrah,",
+"start": 197.991,
+"end": 198.532
+},
+{
+"w": "Admah,",
+"start": 198.712,
+"end": 198.992
+},
+{
+"w": "Zeboiim,",
+"start": 199.052,
+"end": 199.612
+},
+{
+"w": "as",
+"start": 199.672,
+"end": 199.752
+},
+{
+"w": "far",
+"start": 199.812,
+"end": 200.032
+},
+{
+"w": "as",
+"start": 200.112,
+"end": 200.172
+},
+{
+"w": "Lasha,",
+"start": 200.232,
+"end": 200.512
+},
+{
+"w": "got",
+"start": 200.612,
+"end": 200.872
+},
+{
+"w": "'em",
+"start": 200.892,
+"end": 200.952
+},
+{
+"w": "These",
+"start": 201.632,
+"end": 201.852
+},
+{
+"w": "are",
+"start": 201.972,
+"end": 202.052
+},
+{
+"w": "the",
+"start": 202.072,
+"end": 202.132
+},
+{
+"w": "sons",
+"start": 202.232,
+"end": 202.632
+},
+{
+"w": "of",
+"start": 202.752,
+"end": 202.812
+},
+{
+"w": "Ham,",
+"start": 202.912,
+"end": 204.672
+},
+{
+"w": "laid",
+"start": 205.492,
+"end": 205.712
+},
+{
+"w": "out",
+"start": 205.832,
+"end": 205.952
+},
+{
+"w": "plain",
+"start": 206.052,
+"end": 206.392
+},
+{
+"w": "By",
+"start": 208.312,
+"end": 208.452
+},
+{
+"w": "their",
+"start": 208.552,
+"end": 208.652
+},
+{
+"w": "clans,",
+"start": 208.712,
+"end": 209.132
+},
+{
+"w": "their",
+"start": 209.152,
+"end": 209.252
+},
+{
+"w": "tongues,",
+"start": 209.312,
+"end": 209.912
+},
+{
+"w": "their",
+"start": 209.952,
+"end": 210.092
+},
+{
+"w": "lands,",
+"start": 210.192,
+"end": 210.692
+},
+{
+"w": "their",
+"start": 210.752,
+"end": 210.872
+},
+{
+"w": "nations'",
+"start": 210.952,
+"end": 211.892
+},
+{
+"w": "names",
+"start": 211.992,
+"end": 214.292
+},
+{
+"w": "After",
+"start": 214.512,
+"end": 214.792
+},
+{
+"w": "the",
+"start": 214.872,
+"end": 215.072
+},
+{
+"w": "flood",
+"start": 215.252,
+"end": 215.452
+},
+{
+"w": "(after",
+"start": 215.633,
+"end": 215.813
+},
+{
+"w": "the",
+"start": 215.853,
+"end": 215.913
+},
+{
+"w": "flood)",
+"start": 215.973,
+"end": 216.353
+},
+{
+"w": "Nations",
+"start": 218.453,
+"end": 218.793
+},
+{
+"w": "rose",
+"start": 218.873,
+"end": 219.253
+},
+{
+"w": "up",
+"start": 219.373,
+"end": 219.433
+},
+{
+"w": "from",
+"start": 219.633,
+"end": 219.773
+},
+{
+"w": "the",
+"start": 219.853,
+"end": 219.933
+},
+{
+"w": "sons",
+"start": 220.013,
+"end": 220.253
+},
+{
+"w": "of",
+"start": 220.313,
+"end": 220.373
+},
+{
+"w": "Noah's",
+"start": 220.473,
+"end": 220.773
+},
+{
+"w": "blood",
+"start": 220.853,
+"end": 221.193
+},
+{
+"w": "By",
+"start": 221.293,
+"end": 221.433
+},
+{
+"w": "their",
+"start": 221.493,
+"end": 221.593
+},
+{
+"w": "clans,",
+"start": 221.653,
+"end": 222.053
+},
+{
+"w": "by",
+"start": 222.093,
+"end": 222.233
+},
+{
+"w": "their",
+"start": 222.293,
+"end": 222.433
+},
+{
+"w": "tongues,",
+"start": 222.513,
+"end": 222.833
+},
+{
+"w": "by",
+"start": 222.893,
+"end": 223.033
+},
+{
+"w": "their",
+"start": 223.113,
+"end": 223.253
+},
+{
+"w": "lands",
+"start": 223.333,
+"end": 223.753
+},
+{
+"w": "Every",
+"start": 224.613,
+"end": 224.793
+},
+{
+"w": "nation",
+"start": 224.893,
+"end": 225.213
+},
+{
+"w": "on",
+"start": 225.413,
+"end": 225.473
+},
+{
+"w": "the",
+"start": 225.533,
+"end": 225.613
+},
+{
+"w": "map",
+"start": 225.733,
+"end": 225.933
+},
+{
+"w": "came",
+"start": 226.113,
+"end": 226.413
+},
+{
+"w": "from",
+"start": 226.513,
+"end": 226.693
+},
+{
+"w": "three",
+"start": 226.913,
+"end": 227.133
+},
+{
+"w": "men",
+"start": 227.353,
+"end": 227.553
+},
+{
+"w": "Divided",
+"start": 227.953,
+"end": 228.553
+},
+{
+"w": "in",
+"start": 228.633,
+"end": 228.693
+},
+{
+"w": "the",
+"start": 228.773,
+"end": 228.913
+},
+{
+"w": "earth,",
+"start": 229.093,
+"end": 229.273
+},
+{
+"w": "let",
+"start": 230.973,
+"end": 231.113
+},
+{
+"w": "the",
+"start": 231.173,
+"end": 231.313
+},
+{
+"w": "whole",
+"start": 231.393,
+"end": 231.753
+},
+{
+"w": "world",
+"start": 231.813,
+"end": 232.113
+},
+{
+"w": "know",
+"start": 232.193,
+"end": 233.554
+},
+{
+"w": "Genesis",
+"start": 234.574,
+"end": 235.294
+},
+{
+"w": "Ten,",
+"start": 235.414,
+"end": 235.674
+},
+{
+"w": "watch",
+"start": 237.414,
+"end": 237.614
+},
+{
+"w": "the",
+"start": 237.674,
+"end": 237.734
+},
+{
+"w": "nations",
+"start": 237.874,
+"end": 238.574
+},
+{
+"w": "grow",
+"start": 238.634,
+"end": 238.934
+},
+{
+"w": "Now",
+"start": 239.874,
+"end": 241.274
+},
+{
+"w": "Shem,",
+"start": 241.474,
+"end": 241.754
+},
+{
+"w": "father",
+"start": 242.074,
+"end": 242.474
+},
+{
+"w": "of",
+"start": 242.614,
+"end": 242.674
+},
+{
+"w": "all",
+"start": 242.814,
+"end": 242.934
+},
+{
+"w": "of",
+"start": 243.014,
+"end": 243.074
+},
+{
+"w": "Eber's",
+"start": 243.214,
+"end": 243.454
+},
+{
+"w": "kids",
+"start": 243.494,
+"end": 243.914
+},
+{
+"w": "Japheth's",
+"start": 244.294,
+"end": 244.654
+},
+{
+"w": "brother,",
+"start": 244.714,
+"end": 245.034
+},
+{
+"w": "sons",
+"start": 245.494,
+"end": 245.734
+},
+{
+"w": "were",
+"start": 245.754,
+"end": 245.874
+},
+{
+"w": "born",
+"start": 245.914,
+"end": 246.294
+},
+{
+"w": "to",
+"start": 246.354,
+"end": 246.454
+},
+{
+"w": "him",
+"start": 246.554,
+"end": 246.874
+},
+{
+"w": "Elam,",
+"start": 247.434,
+"end": 247.934
+},
+{
+"w": "Asshur,",
+"start": 248.134,
+"end": 248.674
+},
+{
+"w": "Arpachshad",
+"start": 249.114,
+"end": 250.035
+},
+{
+"w": "Lud",
+"start": 250.375,
+"end": 250.595
+},
+{
+"w": "and",
+"start": 250.655,
+"end": 250.735
+},
+{
+"w": "Aram,",
+"start": 250.915,
+"end": 251.255
+},
+{
+"w": "five",
+"start": 251.375,
+"end": 251.655
+},
+{
+"w": "sons,",
+"start": 251.755,
+"end": 252.395
+},
+{
+"w": "hold",
+"start": 252.435,
+"end": 252.775
+},
+{
+"w": "that",
+"start": 252.835,
+"end": 253.615
+},
+{
+"w": "Aram",
+"start": 253.735,
+"end": 253.935
+},
+{
+"w": "had",
+"start": 254.055,
+"end": 254.435
+},
+{
+"w": "Uz,",
+"start": 254.595,
+"end": 254.775
+},
+{
+"w": "Hul,",
+"start": 254.855,
+"end": 255.115
+},
+{
+"w": "Gether,",
+"start": 255.615,
+"end": 255.975
+},
+{
+"w": "Mash",
+"start": 256.035,
+"end": 256.435
+},
+{
+"w": "Arpachshad",
+"start": 256.915,
+"end": 257.595
+},
+{
+"w": "fathered",
+"start": 257.655,
+"end": 257.995
+},
+{
+"w": "Shelah,",
+"start": 258.015,
+"end": 258.395
+},
+{
+"w": "Shelah",
+"start": 258.435,
+"end": 258.775
+},
+{
+"w": "fathered",
+"start": 258.835,
+"end": 259.275
+},
+{
+"w": "Eber,",
+"start": 259.375,
+"end": 259.575
+},
+{
+"w": "fast",
+"start": 259.655,
+"end": 260.055
+},
+{
+"w": "Eber",
+"start": 260.575,
+"end": 260.875
+},
+{
+"w": "had",
+"start": 260.935,
+"end": 261.175
+},
+{
+"w": "two",
+"start": 261.255,
+"end": 261.435
+},
+{
+"w": "sons,",
+"start": 261.635,
+"end": 262.415
+},
+{
+"w": "check",
+"start": 262.455,
+"end": 262.655
+},
+{
+"w": "the",
+"start": 262.695,
+"end": 262.775
+},
+{
+"w": "name:",
+"start": 262.915,
+"end": 263.215
+},
+{
+"w": "Peleg,",
+"start": 263.495,
+"end": 263.855
+},
+{
+"w": "'cause",
+"start": 263.875,
+"end": 264.055
+},
+{
+"w": "in",
+"start": 264.255,
+"end": 264.315
+},
+{
+"w": "his",
+"start": 264.355,
+"end": 264.435
+},
+{
+"w": "days",
+"start": 264.515,
+"end": 264.895
+},
+{
+"w": "the",
+"start": 264.935,
+"end": 265.015
+},
+{
+"w": "earth",
+"start": 265.235,
+"end": 265.375
+},
+{
+"w": "got",
+"start": 265.515,
+"end": 265.755
+},
+{
+"w": "divided,",
+"start": 265.915,
+"end": 266.495
+},
+{
+"w": "man",
+"start": 266.555,
+"end": 266.735
+},
+{
+"w": "His",
+"start": 266.795,
+"end": 266.895
+},
+{
+"w": "brother",
+"start": 266.915,
+"end": 267.316
+},
+{
+"w": "was",
+"start": 267.376,
+"end": 267.476
+},
+{
+"w": "Joktan,",
+"start": 267.536,
+"end": 268.176
+},
+{
+"w": "thirteen",
+"start": 268.536,
+"end": 269.196
+},
+{
+"w": "deep",
+"start": 269.336,
+"end": 269.576
+},
+{
+"w": "Almodad,",
+"start": 269.876,
+"end": 270.436
+},
+{
+"w": "Sheleph,",
+"start": 270.536,
+"end": 270.976
+},
+{
+"w": "Hazarmaveth,",
+"start": 271.176,
+"end": 271.856
+},
+{
+"w": "Jerah,",
+"start": 272.156,
+"end": 272.496
+},
+{
+"w": "beat",
+"start": 272.576,
+"end": 272.796
+},
+{
+"w": "Hadoram,",
+"start": 273.196,
+"end": 273.776
+},
+{
+"w": "Uzal,",
+"start": 274.096,
+"end": 274.376
+},
+{
+"w": "Diklah,",
+"start": 274.596,
+"end": 275.256
+},
+{
+"w": "run",
+"start": 275.456,
+"end": 275.616
+},
+{
+"w": "it",
+"start": 275.696,
+"end": 275.756
+},
+{
+"w": "Obal,",
+"start": 276.276,
+"end": 276.656
+},
+{
+"w": "Abimael,",
+"start": 276.956,
+"end": 277.636
+},
+{
+"w": "Sheba,",
+"start": 277.776,
+"end": 278.116
+},
+{
+"w": "keep",
+"start": 278.416,
+"end": 278.596
+},
+{
+"w": "it",
+"start": 278.696,
+"end": 278.756
+},
+{
+"w": "comin'",
+"start": 278.816,
+"end": 279.156
+},
+{
+"w": "Ophir,",
+"start": 279.516,
+"end": 279.876
+},
+{
+"w": "Havilah,",
+"start": 280.076,
+"end": 280.596
+},
+{
+"w": "Jobab,",
+"start": 280.636,
+"end": 281.096
+},
+{
+"w": "that's",
+"start": 281.436,
+"end": 281.636
+},
+{
+"w": "the",
+"start": 281.676,
+"end": 281.736
+},
+{
+"w": "crew",
+"start": 281.836,
+"end": 282.076
+},
+{
+"w": "All",
+"start": 282.796,
+"end": 282.876
+},
+{
+"w": "the",
+"start": 282.896,
+"end": 282.956
+},
+{
+"w": "sons",
+"start": 283.036,
+"end": 283.276
+},
+{
+"w": "of",
+"start": 283.356,
+"end": 283.416
+},
+{
+"w": "Joktan,",
+"start": 283.456,
+"end": 284.256
+},
+{
+"w": "every",
+"start": 284.396,
+"end": 284.577
+},
+{
+"w": "name",
+"start": 284.737,
+"end": 284.857
+},
+{
+"w": "came",
+"start": 284.897,
+"end": 285.157
+},
+{
+"w": "through",
+"start": 285.277,
+"end": 285.477
+},
+{
+"w": "They",
+"start": 285.697,
+"end": 285.837
+},
+{
+"w": "lived",
+"start": 285.857,
+"end": 286.037
+},
+{
+"w": "from",
+"start": 286.077,
+"end": 286.217
+},
+{
+"w": "Mesha",
+"start": 286.297,
+"end": 286.517
+},
+{
+"w": "toward",
+"start": 286.677,
+"end": 286.997
+},
+{
+"w": "Sephar,",
+"start": 287.077,
+"end": 287.477
+},
+{
+"w": "way",
+"start": 288.117,
+"end": 288.357
+},
+{
+"w": "out",
+"start": 288.637,
+"end": 288.757
+},
+{
+"w": "The",
+"start": 288.917,
+"end": 289.057
+},
+{
+"w": "hill",
+"start": 289.177,
+"end": 289.397
+},
+{
+"w": "country",
+"start": 289.497,
+"end": 289.897
+},
+{
+"w": "of",
+"start": 290.037,
+"end": 290.097
+},
+{
+"w": "the",
+"start": 290.177,
+"end": 290.257
+},
+{
+"w": "east,",
+"start": 290.477,
+"end": 290.697
+},
+{
+"w": "that's",
+"start": 291.117,
+"end": 291.317
+},
+{
+"w": "the",
+"start": 291.377,
+"end": 291.437
+},
+{
+"w": "route",
+"start": 291.557,
+"end": 291.837
+},
+{
+"w": "These",
+"start": 292.177,
+"end": 292.357
+},
+{
+"w": "are",
+"start": 292.377,
+"end": 292.557
+},
+{
+"w": "the",
+"start": 292.577,
+"end": 292.637
+},
+{
+"w": "sons",
+"start": 292.717,
+"end": 293.157
+},
+{
+"w": "of",
+"start": 293.217,
+"end": 293.277
+},
+{
+"w": "Shem,",
+"start": 293.317,
+"end": 295.097
+},
+{
+"w": "laid",
+"start": 295.957,
+"end": 296.197
+},
+{
+"w": "out",
+"start": 296.317,
+"end": 296.437
+},
+{
+"w": "plain",
+"start": 296.537,
+"end": 296.857
+},
+{
+"w": "By",
+"start": 298.797,
+"end": 298.957
+},
+{
+"w": "their",
+"start": 299.037,
+"end": 299.157
+},
+{
+"w": "clans,",
+"start": 299.197,
+"end": 299.617
+},
+{
+"w": "their",
+"start": 299.637,
+"end": 299.737
+},
+{
+"w": "tongues,",
+"start": 299.797,
+"end": 300.397
+},
+{
+"w": "their",
+"start": 300.437,
+"end": 300.577
+},
+{
+"w": "lands,",
+"start": 300.677,
+"end": 301.177
+},
+{
+"w": "their",
+"start": 301.237,
+"end": 301.357
+},
+{
+"w": "nations'",
+"start": 301.437,
+"end": 302.398
+},
+{
+"w": "names",
+"start": 302.478,
+"end": 306.358
+},
+{
+"w": "These",
+"start": 308.298,
+"end": 308.498
+},
+{
+"w": "are",
+"start": 308.618,
+"end": 308.718
+},
+{
+"w": "the",
+"start": 308.738,
+"end": 308.798
+},
+{
+"w": "clans",
+"start": 308.878,
+"end": 309.318
+},
+{
+"w": "of",
+"start": 309.378,
+"end": 309.438
+},
+{
+"w": "Noah's",
+"start": 309.518,
+"end": 310.178
+},
+{
+"w": "sons",
+"start": 310.258,
+"end": 310.758
+},
+{
+"w": "By",
+"start": 312.498,
+"end": 312.678
+},
+{
+"w": "their",
+"start": 312.758,
+"end": 312.878
+},
+{
+"w": "generations,",
+"start": 312.938,
+"end": 313.998
+},
+{
+"w": "in",
+"start": 315.418,
+"end": 315.478
+},
+{
+"w": "their",
+"start": 315.558,
+"end": 315.758
+},
+{
+"w": "nations,",
+"start": 315.958,
+"end": 316.598
+},
+{
+"w": "one",
+"start": 317.118,
+"end": 317.258
+},
+{
+"w": "by",
+"start": 317.358,
+"end": 317.518
+},
+{
+"w": "one",
+"start": 317.658,
+"end": 317.838
+},
+{
+"w": "From",
+"start": 318.738,
+"end": 318.898
+},
+{
+"w": "these",
+"start": 318.959,
+"end": 319.159
+},
+{
+"w": "the",
+"start": 319.179,
+"end": 319.259
+},
+{
+"w": "nations",
+"start": 319.379,
+"end": 320.039
+},
+{
+"w": "spread",
+"start": 321.659,
+"end": 321.999
+},
+{
+"w": "across",
+"start": 322.059,
+"end": 322.399
+},
+{
+"w": "the",
+"start": 322.459,
+"end": 322.539
+},
+{
+"w": "earth",
+"start": 322.719,
+"end": 322.859
+},
+{
+"w": "After",
+"start": 325.439,
+"end": 325.599
+},
+{
+"w": "the",
+"start": 325.639,
+"end": 325.719
+},
+{
+"w": "flood",
+"start": 325.779,
+"end": 326.099
+},
+{
+"w": "(after",
+"start": 328.179,
+"end": 328.599
+},
+{
+"w": "the",
+"start": 328.679,
+"end": 328.759
+},
+{
+"w": "flood)",
+"start": 328.979,
+"end": 329.859
+},
+{
+"w": "Genesis",
+"start": 331.419,
+"end": 332.119
+},
+{
+"w": "Ten",
+"start": 332.219,
+"end": 332.499
+}
+]
+}
