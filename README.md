@@ -4,7 +4,7 @@ A song and code-rendered lyric film of Genesis 10, the Table of Nations: the ark
 
 Built with the Ark engine: https://github.com/omiron33/ark-video-studio
 
-[Listen at TechnoChristianity](https://technochristianity.com/music) · [More films on YouTube](https://www.youtube.com/@technochristianity)
+[Official lyric video](https://www.youtube.com/watch?v=NwBzEU69M60) · [Listen at TechnoChristianity](https://technochristianity.com/music) · [More films on YouTube](https://www.youtube.com/@technochristianity)
 
 The film runs **5:45** at **1920 × 1080 / 60 fps**, rendered at the engine's ultra tier (64 sub-frames per frame). Every frame of its 17 shots is drawn in code on the GPU: the shoulder of Ararat with the ark in drying mud, the braided river on the plain below, Japheth's green headland and island sea, the hot river country of Ham with Nimrod's walled cities, Mizraim's limestone cliffs, Canaan's terraced hills and the Salt Sea, Shem's stair and plateau in the east, and Ararat again at night. Nothing in the picture is a photograph, a downloaded model or a generated image, and no person is shown.
 
